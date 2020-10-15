@@ -1,0 +1,14 @@
+body {
+  background-color: #773311;
+}
+
+.card {
+  height: 360px;
+}
+
+.card .img {
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+/*# sourceMappingURL=style.css.map */

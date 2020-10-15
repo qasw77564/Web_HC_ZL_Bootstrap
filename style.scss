@@ -1,0 +1,11 @@
+body{
+    background-color: #773311;
+}
+
+.card{
+    height: 360px;
+    .img{
+        height: 100%;
+        object-fit: cover;
+    }
+}
